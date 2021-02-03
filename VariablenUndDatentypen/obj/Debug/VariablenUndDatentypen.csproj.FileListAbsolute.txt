@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\bin\Debug\VariablenUndDatentypen.exe.config
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\bin\Debug\VariablenUndDatentypen.exe
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\bin\Debug\VariablenUndDatentypen.pdb
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\obj\Debug\VariablenUndDatentypen.csprojAssemblyReference.cache
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\obj\Debug\VariablenUndDatentypen.Form1.resources
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\obj\Debug\VariablenUndDatentypen.Properties.Resources.resources
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\obj\Debug\VariablenUndDatentypen.csproj.GenerateResource.cache
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\obj\Debug\VariablenUndDatentypen.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\obj\Debug\VariablenUndDatentypen.exe
+C:\Users\b\source\repos\VariablenUndDatentypen\VariablenUndDatentypen\obj\Debug\VariablenUndDatentypen.pdb
